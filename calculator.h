@@ -9,3 +9,17 @@ class Calculator
 };
 
 #endif//CALCULATOR_H
+//HELP
+//ME
+//I
+//REWRITE
+//THIS
+//LAB
+//FROM
+//ZERO
+//SIX
+//TIMES
+//THIS
+//CATALOGE
+//KILL
+//ME
